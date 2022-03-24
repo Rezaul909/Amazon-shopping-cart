@@ -1,0 +1,18 @@
+.container{
+    margin-top: 40px;
+    margin-left: 40px;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+.side-menu{
+    background-color:#FFE0B3;
+    margin: 0 10px 0 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
