@@ -12,7 +12,8 @@
 }
 .side-menu{
     background-color:#FFE0B3;
-    margin: 0 10px 0 10px;
-    padding: 20px;
+    margin: 0 10px 0 0px;
+    padding: 0px 20px 0 20px; 
     border-radius: 10px;
+    
 }
