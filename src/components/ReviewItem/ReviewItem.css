@@ -1,0 +1,46 @@
+.review-item{
+    border: 2px solid gray;
+    padding: 15px;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom:20px;
+    border-radius: 15px;
+}
+.item-details{
+    display: flex;
+    
+}
+.item-details img{ 
+    width: 90px;
+    border-radius: 10px;
+}
+.item-info{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15px;
+}
+.name{
+    font-size: 20px;
+}
+.item-info p {
+    margin: 0;
+}
+.color-hight{
+    color: orangered;
+}
+.delete-btn-container{
+    display: flex;
+    align-items: center;
+}
+.delete-btn{
+    height:60px;
+    width: 60px;
+    background: rgba(235, 87, 87, 0.3);
+    border:0px;
+    border-radius: 50%;
+}
+.delete-icon{
+    font-size:30px;
+    color:rgba(235, 87, 87, 1);
+}
